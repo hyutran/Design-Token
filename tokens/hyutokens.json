@@ -552,6 +552,12 @@
     "border-radius-sm": {
       "value": "4",
       "type": "borderRadius"
+    },
+    "button-size": {
+      "md": {
+        "value": "40",
+        "type": "sizing"
+      }
     }
   },
   "$themes": [],
