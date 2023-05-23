@@ -545,13 +545,13 @@
       "value": "16",
       "type": "spacing"
     },
-    "border": {
-      "radius": {
-        "8": {
-          "value": "8",
-          "type": "borderRadius"
-        }
-      }
+    "border-radius-md": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "border-radius-sm": {
+      "value": "4",
+      "type": "borderRadius"
     }
   },
   "$themes": [],
