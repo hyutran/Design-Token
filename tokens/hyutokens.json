@@ -541,6 +541,10 @@
       "value": "8px",
       "type": "spacing"
     },
+    "12px": {
+      "value": "12",
+      "type": "spacing"
+    },
     "16px": {
       "value": "16",
       "type": "spacing"
