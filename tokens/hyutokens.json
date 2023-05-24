@@ -172,7 +172,7 @@
         "type": "color"
       }
     },
-    "Warning": {
+    "warning": {
       "50": {
         "value": "#fefaed",
         "type": "color"
