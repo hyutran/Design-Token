@@ -570,6 +570,16 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "icon-size": {
+      "sm": {
+        "value": "16",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "24",
+        "type": "sizing"
+      }
     }
   },
   "$themes": [],
