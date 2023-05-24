@@ -559,14 +559,6 @@
         "type": "sizing"
       }
     },
-    "border-main": {
-      "value": {
-        "color": "{Neutral.300}",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border"
-    },
     "main": {
       "value": {
         "color": "{Neutral.300}",
