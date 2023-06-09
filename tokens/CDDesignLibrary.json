@@ -405,10 +405,6 @@
     },
     "neutral": {
       "b": {
-        "PrimaryContrast": {
-          "value": "#ffffff",
-          "type": "color"
-        },
         "Neutral50": {
           "value": "#f9fafb",
           "type": "color"
