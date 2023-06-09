@@ -3,20 +3,20 @@
     "shadow-lg": {
       "value": [
         {
-          "color": "#10182808",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "2",
-          "blur": "4",
-          "spread": "-2"
-        },
-        {
           "color": "#1018281a",
           "type": "dropShadow",
-          "x": "0",
-          "y": "4",
-          "blur": "8",
-          "spread": "-2"
+          "x": 0,
+          "y": 4,
+          "blur": 8,
+          "spread": -2
+        },
+        {
+          "color": "#10182808",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 4,
+          "spread": -2
         }
       ],
       "type": "boxShadow"
@@ -24,20 +24,20 @@
     "shadow-md": {
       "value": [
         {
-          "color": "#10182808",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "4",
-          "blur": "4",
-          "spread": "0"
-        },
-        {
           "color": "#10182814",
           "type": "dropShadow",
-          "x": "0",
-          "y": "12",
-          "blur": "16",
-          "spread": "-4"
+          "x": 0,
+          "y": 12,
+          "blur": 16,
+          "spread": -4
+        },
+        {
+          "color": "#10182808",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 4,
+          "spread": 0
         }
       ],
       "type": "boxShadow"
@@ -322,10 +322,10 @@
       "value": {
         "color": "#987be6",
         "type": "dropShadow",
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "1"
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 1
       },
       "type": "boxShadow"
     },
@@ -478,23 +478,23 @@
     "destructive": {
       "b": {
         "DestructiveLighter": {
-          "value": "#fcf3f2",
+          "value": "#ffe6e6",
           "type": "color"
         },
         "DestructiveLight": {
-          "value": "#eca69e",
+          "value": "#fe9c9a",
           "type": "color"
         },
         "Destructive": {
-          "value": "#de5243",
+          "value": "#fc0703",
           "type": "color"
         },
         "DestructiveDark": {
-          "value": "#a63124",
+          "value": "#ca0602",
           "type": "color"
         },
         "DestructiveDarker": {
-          "value": "#702c20",
+          "value": "#650301",
           "type": "color"
         }
       }
