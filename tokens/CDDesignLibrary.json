@@ -444,6 +444,14 @@
         "Text": {
           "value": "#121826",
           "type": "color"
+        },
+        "PrimaryContrast": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Surface": {
+          "value": "#ffffff",
+          "type": "color"
         }
       }
     },
