@@ -234,10 +234,6 @@
       }
     },
     "icon-size": {
-      "xs": {
-        "value": "16",
-        "type": "sizing"
-      },
       "sm": {
         "value": "20",
         "type": "sizing"
