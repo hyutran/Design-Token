@@ -551,6 +551,48 @@
       "value": "8",
       "type": "borderRadius",
       "description": "button, card"
+    },
+    "shadow-2dp": {
+      "value": [
+        {
+          "color": "#10182808",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 4,
+          "spread": 0
+        },
+        {
+          "color": "#10182814",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 12,
+          "blur": 16,
+          "spread": -4
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "shadow-1dp": {
+      "value": [
+        {
+          "color": "#10182808",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 4,
+          "spread": -2
+        },
+        {
+          "color": "#1018281a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 8,
+          "spread": -2
+        }
+      ],
+      "type": "boxShadow"
     }
   },
   "$themes": [],
